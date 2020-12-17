@@ -2,15 +2,22 @@
 
 I grew up between Cairo, Egypt and Geneva, Switzerland — I have always been interested in humanitarian work and documentary filmmaking and aspire to enter a career path that merges the two. 
 
-I am in progress of obtaining my George Washington University bachelors degree in peace studies with a minor in journalism and mass communications (documentary focus) -- essentially enabling me to engage with questions of culture, knowledge and power. It taught me to examine how state and non-state actors cooperate and compete on political issues. The diversity of the student body and my courses, fostered my need for an environment of critical enquiry, collaborative learning and creative solutions.
+I am in progress of obtaining my **George Washington University** bachelors degree in peace studies with a minor in journalism and mass communications (documentary focus) -- essentially enabling me to engage with questions of culture, knowledge and power. It taught me to examine how state and non-state actors cooperate and compete on political issues. The diversity of the student body and my courses, fostered my need for an environment of critical enquiry, collaborative learning and creative solutions.
 
-My in-class and out of class experience in the heart of Washington DC taught me the mutual but scarce language of open- mindedness and acceptance: the language that entails inquisitive questions, rather than conventional assumptions. But it has also prompted me to recognize the gap that is rapidly growing between the Middle East and the West – a gap created by misunderstanding and furthered by ignorance. Being a product of two cultures has yielded a strong sense of loyalty towards both sides. Hence, when I encounter the gap, as I frequently do, I feel a responsibility to try and bridge it.
+## My goals and thoughts
 
-Whenever you commit to this repository, GitHub Pages will run [My first assignment](https://zsheta.github.io/firstassignmet) to rebuild the pages in your site, from the content in your Markdown files.
+My in-class and out of class experience in the heart of Washington DC taught me the mutual but scarce language of open- mindedness and acceptance: the language that entails inquisitive questions, rather than conventional assumptions. But it has also prompted me to recognize the gap that is rapidly growing between the Middle East and the West – a gap created by misunderstanding and furthered by ignorance. Being a product of two cultures has yielded a strong sense of loyalty towards both sides. Hence, when I encounter the gap, as I frequently do, I feel a responsibility to try and **bridge** it.
 
-### Markdown
+# My University classes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Right now I am studying Data Reporting and making progress in in. Here you can see my works and see how I am getting better from one assignment to another one:
+
+-[My first assignment](https://zsheta.github.io/firstassignmet);
+-
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
