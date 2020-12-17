@@ -13,7 +13,7 @@ My in-class and out of class experience in the heart of Washington DC taught me 
 Right now I am studying Data Reporting and making progress in in. Here you can see my works and see how I am getting better from one assignment to another one:
 
 - [My first assignment](https://zsheta.github.io/firstassignment);
-- [Biden trasition](https://zsheta.github.io/firstassignmet);
+- [Biden trasition paper](https://zsheta.github.io/bidentransition);
 - 
 
 
